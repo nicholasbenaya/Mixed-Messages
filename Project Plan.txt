@@ -1,0 +1,12 @@
+Message Generator Project
+Topic: Motivational Phrases
+Program Output: To print random motivational phrases
+Project Objective:
+    1. Build a message generator program using JavaScript
+    2. Use Git Version Control
+    3. Use Command Line
+    4. Develop the project locally
+Prerequisites:
+    1. JavaScript
+    2. Git and GitHub
+    3. Command Line
