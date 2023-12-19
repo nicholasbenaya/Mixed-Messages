@@ -12,7 +12,7 @@ Daily Motivational Message Generator built with JavaScript
 1. Clone the code
 2. Make sure you already installed Node Runtime
 3. Open terminal, change the directory to the project folder
-4. Run the **node script.js** command
+4. Run the "**node script.js**" command
 
 ## Technologies
 1. JavaScript as the Language
